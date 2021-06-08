@@ -16,6 +16,7 @@ public class Example {
     @RequestMapping("/")
     String home(){
         return "不谈";
+
     }
 
     /**
